@@ -1,0 +1,4 @@
+model,trainable_params,image_size,epochs,best_epoch,valid_loss,valid_accuracy,training_seconds,source_weights
+small_w16,5154,32,1,1,0.6194602251052856,0.95,2.571406900009606,none
+head_w16,1026,224,1,1,0.2218177631497383,1.0,5.3790830000070855,IMAGENET1K_V1
+partial_w16,8394754,224,1,1,0.00021718542047892696,1.0,7.0474001000402495,IMAGENET1K_V1
